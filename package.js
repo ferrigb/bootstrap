@@ -1,4 +1,4 @@
-// package metadata file for Meteor.js
+//fgrfgggpackage metadata file for Meteor.js
 
 /* eslint-env meteor */
 
